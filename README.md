@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Just for learning purpose
+This repository follows the tutorial of the Data Science Speciliaztion from Coursera
